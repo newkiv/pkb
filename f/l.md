@@ -1,6 +1,9 @@
 ## 食材
 * [食材列表](http://m.meishichina.com/ingredient/)
 
+## 别人整理好的菜谱
+* [无敌好吃的39道菜谱，天天吃都不腻，学起来！](http://mp.weixin.qq.com/s?__biz=MzAxNjAyNTY4NQ==&mid=2651375784&idx=2&sn=ac0bf9d455ee6f97ca71a123d4178e87&scene=1&srcid=0617lUIMOiLxvpArBz4EqCzp#rd)
+
 ## 主食
 * [鸡蛋藕饼](http://m.xiachufang.com/recipe/100538618/)
 * [香肠土豆焖饭](http://m.xiachufang.com/recipe/100253286/)
