@@ -6,13 +6,23 @@
 
 ## 主食
 * [鸡蛋藕饼](http://m.xiachufang.com/recipe/100538618/)
-* [香肠土豆焖饭](http://m.xiachufang.com/recipe/100253286/)
 * [芝士培根番茄土豆泥](http://m.xiachufang.com/recipe/100054081/)
-* [南瓜蘑菇意面](http://m.xiachufang.com/recipe/100474618/)
+
+## 咸饭和面
+* [香肠土豆焖饭](http://m.xiachufang.com/recipe/100253286/) [肉末豆腐盖饭](http://m.xiachufang.com/recipe/100623058/) [肉末菜粥](http://m.xiachufang.com/recipe/100030147/)
+* [南瓜蘑菇意面](http://m.xiachufang.com/recipe/100474618/) [家常肉末面](http://m.xiachufang.com/recipe/100099000/)
 
 ## 大荤
-* [糖醋小排](http://m.xiachufang.com/recipe/260622/) [生焗排骨](http://m.xiachufang.com/recipe/100098729/) [蒜香煎羊排](http://m.xiachufang.com/recipe/100367271/) [水煮肉片](http://m.xiachufang.com/recipe/100347110/)
+猪羊
+* [糖醋小排](http://m.xiachufang.com/recipe/260622/) [生焗排骨](http://m.xiachufang.com/recipe/100098729/) [豉汁蒸排骨](http://m.xiachufang.com/recipe/270186/) 
+* [水煮肉片](http://m.xiachufang.com/recipe/100347110/) [香菇炒肉](http://m.xiachufang.com/recipe/100196188/) [青椒炒猪肚](http://m.xiachufang.com/recipe/180543/) [香菇滑肉片](http://m.xiachufang.com/recipe/100635476/)
+* [肉末豆腐饼](http://m.xiachufang.com/recipe/166070/) [肉末豆角](http://m.xiachufang.com/recipe/100367874/) [肉末蛋饺](http://m.xiachufang.com/recipe/89258/) [肉末毛豆](http://m.xiachufang.com/recipe/100278267/) [茄汁肉末玉米粒](http://m.xiachufang.com/recipe/100546873/)
+* [蒜香煎羊排](http://m.xiachufang.com/recipe/100367271/)
+
+鸡
 * [红烧鸡中翅](http://m.xiachufang.com/recipe/259825/) [大盘鸡](http://m.xiachufang.com/recipe/100119859/) [土豆烧鸡](http://m.xiachufang.com/recipe/100346005/) [香菇焖鸡腿](http://m.xiachufang.com/recipe/100459632/) [简单又好吃的啤酒鸭](http://m.xiachufang.com/recipe/101713849/)
+
+鱼虾
 * [红烧带鱼](http://m.xiachufang.com/recipe/259240/) [豉蒸龙利鱼](http://m.xiachufang.com/recipe/100556921/)
 * [油焖大虾](http://m.xiachufang.com/recipe/100125819/) [白灼基围虾](http://m.xiachufang.com/recipe/100037807/)
 
