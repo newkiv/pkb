@@ -15,12 +15,12 @@
 ## 大荤
 猪羊
 * [糖醋小排](http://m.xiachufang.com/recipe/260622/) [生焗排骨](http://m.xiachufang.com/recipe/100098729/) [豉汁蒸排骨](http://m.xiachufang.com/recipe/270186/) 
-* [水煮肉片](http://m.xiachufang.com/recipe/100347110/) [香菇炒肉](http://m.xiachufang.com/recipe/100196188/) [青椒炒猪肚](http://m.xiachufang.com/recipe/180543/) [香菇滑肉片](http://m.xiachufang.com/recipe/100635476/)
+* [水煮肉片](http://m.xiachufang.com/recipe/100347110/) [香菇炒肉](http://m.xiachufang.com/recipe/100196188/) [青椒炒猪肚](http://m.xiachufang.com/recipe/180543/) [香菇滑肉片](http://m.xiachufang.com/recipe/100635476/) [苹果糖醋肉](http://m.meishichina.com/recipe/286738/)
 * [肉末豆腐饼](http://m.xiachufang.com/recipe/166070/) [肉末豆角](http://m.xiachufang.com/recipe/100367874/) [肉末蛋饺](http://m.xiachufang.com/recipe/89258/) [肉末毛豆](http://m.xiachufang.com/recipe/100278267/) [茄汁肉末玉米粒](http://m.xiachufang.com/recipe/100546873/)
 * [蒜香煎羊排](http://m.xiachufang.com/recipe/100367271/)
 
 鸡
-* [红烧鸡中翅](http://m.xiachufang.com/recipe/259825/) [大盘鸡](http://m.xiachufang.com/recipe/100119859/) [土豆烧鸡](http://m.xiachufang.com/recipe/100346005/) [香菇焖鸡腿](http://m.xiachufang.com/recipe/100459632/) [简单又好吃的啤酒鸭](http://m.xiachufang.com/recipe/101713849/)
+* [红烧鸡中翅](http://m.xiachufang.com/recipe/259825/) [大盘鸡](http://m.xiachufang.com/recipe/100119859/) [土豆烧鸡](http://m.xiachufang.com/recipe/100346005/) [香菇焖鸡腿](http://m.xiachufang.com/recipe/100459632/) [简单又好吃的啤酒鸭](http://m.xiachufang.com/recipe/101713849/) [菇爆鸡丁](http://m.meishichina.com/recipe/284823/)
 
 鱼虾
 * [红烧带鱼](http://m.xiachufang.com/recipe/259240/) [豉蒸龙利鱼](http://m.xiachufang.com/recipe/100556921/)
@@ -38,6 +38,7 @@
 
 * [蒜香煎蘑菇](http://m.xiachufang.com/recipe/1005294/) [素炒鲜口蘑](http://m.xiachufang.com/recipe/100385636/) [金针菇日本豆腐](http://m.xiachufang.com/recipe/100103576/) [快手烧香菇](http://m.xiachufang.com/recipe/1060973/) [黑椒香菇洋葱](http://m.xiachufang.com/recipe/101759187/) [黑木耳炒鸡蛋](http://m.xiachufang.com/recipe/1101585/)
 * [香甜玉米粒](http://m.xiachufang.com/recipe/100056000/)
+* [杏鲍菇焖豆腐](http://m.meishichina.com/recipe/285851/)
 
 ## 汤
 * [疙瘩汤](http://m.xiachufang.com/recipe/100398765/)
