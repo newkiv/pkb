@@ -67,3 +67,6 @@
 ## 口令
 * 握笔: 一指二指捏着，三指下面顶着，四指五指托着，笔杆向后躺着，笔尖稍稍斜着。
 * 坐姿: 眼离桌面一尺，胸离桌子一拳，手离笔尖一寸
+
+## 其他信息
+* [【国家笔顺新规】别怪孩子写错汉字笔顺，可能是你根本没教对！](http://mp.weixin.qq.com/s?__biz=MjM5Njk0MTU0Mw==&mid=2653563700&idx=3&sn=78923bba6e437047c944d25d682d14d7&scene=2&srcid=0909LgjsfrQRAT3zqWtHeaRx&from=timeline&isappinstalled=0#wechat_redirect)
