@@ -5,6 +5,9 @@
 ## 食材
 * [食材列表](http://m.meishichina.com/ingredient/)
 
+## 半成品和佐料
+* [教你自制高汤块，万能！](https://zhuanlan.zhihu.com/p/22450338)
+
 ## 别人整理好的菜谱
 * [无敌好吃的39道菜谱，天天吃都不腻，学起来！](http://mp.weixin.qq.com/s?__biz=MzAxNjAyNTY4NQ==&mid=2651375784&idx=2&sn=ac0bf9d455ee6f97ca71a123d4178e87&scene=1&srcid=0617lUIMOiLxvpArBz4EqCzp#rd)
 
