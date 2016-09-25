@@ -1,5 +1,7 @@
-## 老妈经典菜
-* 清蒸桂花鱼
+## 自家经典菜
+* 老妈 : 清蒸桂花鱼, 卤鸡翅
+* C : 嫩滑龙利鱼
+* A : 咖喱土豆排骨
 
 ## 菜谱站点
 * [下厨房](http://m.xiachufang.com)
@@ -39,8 +41,9 @@
 
 ## 荤素
 
-* [孜然青椒炒肉](http://m.xiachufang.com/recipe/100280459/) [金针菇青椒肉丝](http://m.xiachufang.com/recipe/100427527/) [西兰花炒鸡胸肉](http://m.xiachufang.com/recipe/100106060/) [青菜蘑菇炒肉片](http://m.xiachufang.com/recipe/100387415/) [宫保鸡丁](http://m.xiachufang.com/recipe/100461836/)
-* [蒜香肉末烧豆腐](http://m.xiachufang.com/recipe/268178/) [蒜苔肉末](http://m.xiachufang.com/recipe/100418800/) [肉末豆腐](http://m.xiachufang.com/recipe/100216833/) [苍蝇头](http://m.xiachufang.com/recipe/93442/)
+* [孜然青椒炒肉](http://m.xiachufang.com/recipe/100280459/) [金针菇青椒肉丝](http://m.xiachufang.com/recipe/100427527/) [青菜蘑菇炒肉片](http://m.xiachufang.com/recipe/100387415/) [超下饭的木耳炒肉](http://m.xiachufang.com/recipe/100526038/) [下饭神器——青椒拆骨肉](http://m.xiachufang.com/recipe/100582348/)
+* [西兰花炒鸡胸肉](http://m.xiachufang.com/recipe/100106060/) [宫保鸡丁](http://m.xiachufang.com/recipe/100461836/)
+* [蒜香肉末烧豆腐](http://m.xiachufang.com/recipe/268178/) [蒜苔肉末](http://m.xiachufang.com/recipe/100418800/) [肉末豆腐](http://m.xiachufang.com/recipe/100216833/) [苍蝇头](http://m.xiachufang.com/recipe/93442/) [超级下饭的肉末四季豆](http://m.xiachufang.com/recipe/100346358/)
 * [糖醋藕丸](http://m.xiachufang.com/recipe/202903/)
 * [快手平菇炒蛋](http://m.xiachufang.com/recipe/1008701/)
 * 龙利鱼
