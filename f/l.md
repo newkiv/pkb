@@ -33,6 +33,7 @@
 
 鸡鸭
 * [红烧鸡中翅](http://m.xiachufang.com/recipe/259825/) [大盘鸡](http://m.xiachufang.com/recipe/100119859/) [土豆烧鸡](http://m.xiachufang.com/recipe/100346005/) [香菇焖鸡腿](http://m.xiachufang.com/recipe/100459632/) [简单又好吃的啤酒鸭](http://m.xiachufang.com/recipe/101713849/) [菇爆鸡丁](http://m.meishichina.com/recipe/284823/)
+* [整只鸡](https://www.zhihu.com/question/37119245): [焗鸡](https://www.zhihu.com/question/37119245/answer/71372806) [广东豉油鸡](https://www.zhihu.com/question/37119245/answer/115679071) [椒麻鸡和大盘鸡](https://www.zhihu.com/question/37119245/answer/70761122)
 * [炒鸭肉](https://m.xiachufang.com/recipe/1046884/)
 
 鱼虾
