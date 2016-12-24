@@ -20,6 +20,7 @@
 * [零难度学做香喷喷喧腾腾的花生酱大花卷](http://m.xiachufang.com/recipe/102151870/)
 * [鸡蛋藕饼](http://m.xiachufang.com/recipe/100538618/)
 * [芝士培根番茄土豆泥](http://m.xiachufang.com/recipe/100054081/)
+* [蛋煎饺子](http://m.xiachufang.com/recipe/101807728/)
 
 ## 咸饭和面
 * [香肠土豆焖饭](http://m.xiachufang.com/recipe/100253286/) [肉末豆腐盖饭](http://m.xiachufang.com/recipe/100623058/) [肉末菜粥](http://m.xiachufang.com/recipe/100030147/)
@@ -71,7 +72,17 @@
 * [杏鲍菇焖豆腐](http://m.meishichina.com/recipe/285851/)
 * [茭白炒毛豆](https://m.xiachufang.com/recipe/1053400/)
 * [蒜炒豇豆](https://m.xiachufang.com/recipe/100351892/)
+* [风味茄子](http://m.xiachufang.com/recipe/102128221/)
+* [鲜虾白菜粉丝汤](http://m.xiachufang.com/recipe/100116896/)
 
 ## 汤
 * [疙瘩汤](http://m.xiachufang.com/recipe/100398765/)
 * [冬日番茄暖身汤](http://m.xiachufang.com/recipe/102143324/)
+
+## 甜食
+* [芒果牛奶布丁](http://m.xiachufang.com/recipe/101812375/)
+* [微波炉戚风蛋糕](http://m.xiachufang.com/recipe/1049575/)
+* [微波炉布丁](http://m.xiachufang.com/recipe/100374962/)
+
+## 坚果
+* [微波炉花生](http://m.xiachufang.com/recipe/100029392/) [微波炉烤花生](http://m.xiachufang.com/recipe/1050652/)
