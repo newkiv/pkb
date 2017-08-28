@@ -1,3 +1,43 @@
+
+
+
+
+minecraft,manual
+[教程/菜鸟手册](https://minecraft-zh.gamepedia.com/%E6%95%99%E7%A8%8B/%E8%8F%9C%E9%B8%9F%E6%89%8B%E5%86%8C)
+
+bootstrap,example
+[Snippets tagged with "2.3.2"](https://bootsnipp.com/tags/2.3.2)
+
+work,lancer
+[sideidea](http://sideidea.com/)
+
+git,gc
+[Ubuntu Linux git gc says error: failed to run repack](https://stackoverflow.com/questions/21064094/ubuntu-linux-git-gc-says-error-failed-to-run-repack)
+
+usa,coin,khan
+[教你认识美元-硬币篇](http://www.hydegroup.net/Item/Show.asp?m=1&d=545)
+
+typora,markdown,editor 
+[Typora](https://typora.io/)
+
+gfw,v2ray,tls
+[V2Ray 用户手册](https://www.v2ray.com/)
+
+free,book,programming
+[免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
+
+funny,video
+[sploid](http://sploid.gizmodo.com/)
+
+kindle,book
+[子乌书简](http://book.zi5.me/)
+
+kindle,book
+[好读网](http://haodoo.net/)
+
+cartoon,child
+[【合集】《魔神英雄传》第一季（1988/1993）辽艺配音版 共45集](http://www.acfun.cn/v/ac395766)
+
 windows,xp,wannacry,bitcoin
 [windows关闭445端口](http://thief.one/2017/05/13/2/)
 [比特币病毒来袭，教你关闭445端口（附打开方法）](http://www.sohu.com/a/140584526_136073)
@@ -44,6 +84,7 @@ chatterbot,ai,python
 ail
 [图灵机器人](http://www.tuling123.com/)
 
+chinese,chatterbot
 [dgk_lost_conv 中文对白语料 chinese conversation corpus](https://github.com/rustch3n/dgk_lost_conv)
 
 chatterbot,ai,python
@@ -114,7 +155,7 @@ flask,sqlalchemy,whoosh,search
 [Full text search for flask.](https://github.com/honmaple/flask-msearch)
 
 gfw,openwrt
-[史上最详细的OpenWrt shadowsocks路由器自动翻墙教程 https://softwaredownload.gitbooks.io/openwrt-fanqiang/content/]
+[史上最详细的OpenWrt shadowsocks路由器自动翻墙教程](https://softwaredownload.gitbooks.io/openwrt-fanqiang/content/)
 
 privoxy,shadowsocks
-[使用Privoxy将socks5代理转为http代理 https://blog.phpgao.com/privoxy-shadowsocks.html]
+[使用Privoxy将socks5代理转为http代理](https://blog.phpgao.com/privoxy-shadowsocks.html)
