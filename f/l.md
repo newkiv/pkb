@@ -45,7 +45,10 @@
 * [炒鸭肉](https://m.xiachufang.com/recipe/1046884/)
 
 鱼虾
-* 带鱼: [香煎糖醋带鱼](http://m.xiachufang.com/recipe/102138125/) [红烧带鱼](http://m.xiachufang.com/recipe/259240/)
+* 带鱼: 
+  * [香煎糖醋带鱼](http://m.xiachufang.com/recipe/102138125/) 
+  * [红烧带鱼](http://m.xiachufang.com/recipe/259240/) 
+  * [教您煎出完美无暇的带鱼——香葱焖带鱼](http://m.meishichina.com/recipe/11869/)
 * 龙利鱼
   * [豉蒸龙利鱼](http://m.xiachufang.com/recipe/100556921/)
   * [缤纷龙利鱼](http://m.xiachufang.com/recipe/100136395/)

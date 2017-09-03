@@ -2,6 +2,9 @@
 
 
 
+ubuntu,chrome,blank
+https://askubuntu.com/questions/689449/external-links-are-opened-as-blank-tabs-in-new-browser-window-in-chrome
+
 minecraft,manual
 [教程/菜鸟手册](https://minecraft-zh.gamepedia.com/%E6%95%99%E7%A8%8B/%E8%8F%9C%E9%B8%9F%E6%89%8B%E5%86%8C)
 
