@@ -45,9 +45,9 @@
 * [炒鸭肉](https://m.xiachufang.com/recipe/1046884/)
 
 鱼虾
-* 带鱼: 
-  * [香煎糖醋带鱼](http://m.xiachufang.com/recipe/102138125/) 
-  * [红烧带鱼](http://m.xiachufang.com/recipe/259240/) 
+* 带鱼:
+  * [香煎糖醋带鱼](http://m.xiachufang.com/recipe/102138125/)
+  * [红烧带鱼](http://m.xiachufang.com/recipe/259240/)
   * [教您煎出完美无暇的带鱼——香葱焖带鱼](http://m.meishichina.com/recipe/11869/)
 * 龙利鱼
   * [豉蒸龙利鱼](http://m.xiachufang.com/recipe/100556921/)
@@ -67,6 +67,7 @@
 * [快手平菇炒蛋](http://m.xiachufang.com/recipe/1008701/)
 * [芦笋虾球](https://m.xiachufang.com/recipe/101892097/)
 * [茭白毛豆鸡丁](https://m.xiachufang.com/recipe/178457/)
+* [大烩菜](http://home.meishichina.com/recipe-239305.html)
 
 ## 素菜
 * [蒜香煎蘑菇](http://m.xiachufang.com/recipe/1005294/) [素炒鲜口蘑](http://m.xiachufang.com/recipe/100385636/) [金针菇日本豆腐](http://m.xiachufang.com/recipe/100103576/) [快手烧香菇](http://m.xiachufang.com/recipe/1060973/) [黑椒香菇洋葱](http://m.xiachufang.com/recipe/101759187/) [黑木耳炒鸡蛋](http://m.xiachufang.com/recipe/1101585/) [香菇油菜](https://m.xiachufang.com/recipe/1009705/)
@@ -86,6 +87,7 @@
 * [芒果牛奶布丁](http://m.xiachufang.com/recipe/101812375/)
 * [微波炉戚风蛋糕](http://m.xiachufang.com/recipe/1049575/)
 * [微波炉布丁](http://m.xiachufang.com/recipe/100374962/)
+* [巧克力冰糕](http://home.meishichina.com/recipe-364855.html)
 
 ## 坚果
 * [微波炉花生](http://m.xiachufang.com/recipe/100029392/) [微波炉烤花生](http://m.xiachufang.com/recipe/1050652/)

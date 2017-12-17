@@ -1,6 +1,31 @@
 
+css,framework,mobile
+[移动webapp前端ui用哪个框架比较适合小项目？](http://54im.com/web/webapp-ui-weui-frozenui-suimobile-gmu-jingle-purecss-ionic-jquerymobile-bootstrap.html)
+
+css,weui,framework,mobile
+[WeUI 为微信 Web 服务量身设计](https://github.com/Tencent/weui)
+
+css,framework,sui,mobile
+[SUI Mobile (MSUI)是由阿里巴巴国际UED前端出品的移动端UI库](https://github.com/sdc-alibaba/SUI-Mobile)
+
+imagemagick,convert,image
+[我的ImageMagick使用心得](http://www.charry.org/docs/linux/ImageMagick/ImageMagick.html)
+
+weixin,wechat,oauth,api
+[网站应用微信登录开发指南](https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&id=open1419316505&token=&lang=zh_CN)
+
+weixin,wechat,oauth
+[网页授权](https://easywechat.org/zh-cn/docs/oauth.html)
+
+firefly,gfw,go
+[A proxy software to help circumventing the Great Firewall.](https://github.com/yinghuocho/firefly-proxy)
 
 
+wolfram,language,math
+[Wolfram语言](http://www.wolfram.com/language/)
+
+go,gfw,http,proxy
+https://github.com/coyove/goflyway
 
 ubuntu,chrome,blank
 https://askubuntu.com/questions/689449/external-links-are-opened-as-blank-tabs-in-new-browser-window-in-chrome
@@ -20,7 +45,7 @@ git,gc
 usa,coin,khan
 [教你认识美元-硬币篇](http://www.hydegroup.net/Item/Show.asp?m=1&d=545)
 
-typora,markdown,editor 
+typora,markdown,editor
 [Typora](https://typora.io/)
 
 gfw,v2ray,tls
